@@ -7,10 +7,9 @@ import { PoolConnection, RowDataPacket, FieldPacket, QueryError } from "mysql2";
 import connection from "../utils/mysql";
 import axios from "axios";
 import TradeStatus from "./status";
+import url from "url";
 
 const { ACCOUNT_NAME, ACCOUNT_PASSWORD, SHARED_SECRET, IDENTITY_SECRET } = process.env;
-const url: string = `http://localhost:${process.env.PORT ? process.env.PORT : 3000}`;
-
 class TradeBot {
     public client;
     public community;
