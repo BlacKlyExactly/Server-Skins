@@ -17,6 +17,7 @@ passport.use(
         apiKey: process.env.WEB_API_KEY
     },
     ( identifier, profile, done ) => {
+        profile.identifier = identifier;
         done(null, profile);
     }
 ));
