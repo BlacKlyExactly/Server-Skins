@@ -12,12 +12,12 @@ passport.deserializeUser(( obj: any, done: any ) => {
 
 passport.use(
     new SteamStrategy({
-        returnURL: `${url}/api/return`,
-        realm: `${url}/`,
+        returnURL: `http://www.sklep.how2kill.pl/api/return`,
+        realm: `http://www.sklep.how2kill.pl/`,
         apiKey: process.env.WEB_API_KEY
     },
     ( identifier, profile, done ) => {
-        profile.identifier = identifier;
+        profile.identifier = identifier;    
         done(null, profile);
     }
 ));
