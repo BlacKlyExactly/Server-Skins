@@ -1,4 +1,5 @@
 import axios from "axios";
+import url from "./adress";
 
 const logger = async( log: string ) => {
     try {
