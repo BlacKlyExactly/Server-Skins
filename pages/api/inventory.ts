@@ -20,7 +20,7 @@ export default async( req: NextApiRequest, res: NextApiResponse ) => {
 
         const url: string = "https://steamcommunity.com"
         const response: AxiosResponse = await axios.get(
-            `${url}/profiles/${process.env.BOT_PROFILE_ID}/inventory/json/730/2`
+            `/profiles/${process.env.BOT_PROFILE_ID}/inventory/json/730/2`
         );
         
         cacheData.put(process.env.BOT_PROFILE_ID, response.data, time);
