@@ -22,6 +22,7 @@ import {
 
 const isValidTradeUrl = ( clientData: any ): boolean => {
     if(!clientData) return false;
+    if(!clientData.tradeUrl) return false;
 
     const steamUrl: string = 'https://steamcommunity.com/tradeoffer/new/';
     return !clientData.tradeUrl.includes("undefined") && clientData.tradeUrl.includes(steamUrl);
