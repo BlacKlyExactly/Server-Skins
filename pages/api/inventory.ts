@@ -3,6 +3,7 @@ import axios, { AxiosResponse } from "axios";
 import cacheData from "memory-cache";
 import logger from "../../utils/logger";
 import os from "os";
+import url from "../../utils/adress";
 
 const scriptName: string = __filename.slice(__dirname.length + 1);
 
@@ -18,9 +19,8 @@ export default async( req: NextApiRequest, res: NextApiResponse ) => {
             return;
         }
 
-        const url: string = "https://steamcommunity.com"
         const response: AxiosResponse = await axios.get(
-            `/profiles/${process.env.BOT_PROFILE_ID}/inventory/json/730/2`
+            `${url}/profiles/${process.env.BOT_PROFILE_ID}/inventory/json/730/2`
         );
         
         cacheData.put(process.env.BOT_PROFILE_ID, response.data, time);

@@ -1,7 +1,6 @@
 import passport from "passport";
 import SteamStrategy from "passport-steam";
-
-const url: string = `http://localhost:${process.env.PORT || 3000}`;
+import url from "../../utils/adress";
 
 passport.serializeUser(( user: any, done: any ) => {
     done(null, user);
@@ -13,8 +12,8 @@ passport.deserializeUser(( obj: any, done: any ) => {
 
 passport.use(
     new SteamStrategy({
-        returnURL: `/api/return`,
-        realm: `/`,
+        returnURL: `${url}/api/return`,
+        realm: `${url}/`,
         apiKey: process.env.WEB_API_KEY
     },
     ( identifier, profile, done ) => {
