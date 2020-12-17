@@ -1,0 +1,198 @@
+--- [9:28:37] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [9:28:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:105659186) (ndex.js): \n {\"steamID\":\"STEAM_1:1:105659186\",\"name\":\"â‹† Ë¢ Ë¡ áµƒ Ê¸ áµ‰ Ê³ â‹†\",\"credits\":0,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"211318373","token":"2vJ6MKE5
+--------------
+--- [9:28:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:105659186) (ndex.js): \n {\"steamID\":\"STEAM_1:1:105659186\",\"name\":\"â‹† Ë¢ Ë¡ áµƒ Ê¸ áµ‰ Ê³ â‹†\",\"credits\":0,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"211318373","token":"2vJ6MKE5
+--------------
+--- [9:28:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:105659186) (ndex.js): \n {\"steamID\":\"STEAM_1:1:105659186\",\"name\":\"â‹† Ë¢ Ë¡ áµƒ Ê¸ áµ‰ Ê³ â‹†\",\"credits\":0,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"211318373","token":"2vJ6MKE5
+--------------
+--- [9:54:52] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [9:54:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [9:54:53] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [9:54:53] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [11:11:7] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [11:11:7] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [11:11:7] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [11:11:7] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:42:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:42:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:42:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:42:30] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [12:44:4] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:44:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:44:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:44:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:50:26] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:50:26] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:50:26] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:50:26] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:50:42] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:50:42] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:50:42] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [12:50:42] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:241190321) (ndex.js): \n {\"steamID\":\"STEAM_1:1:241190321\",\"name\":\"WebUser\",\"credits\":440,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"482380643","token":"WRI36-vS
+--------------
+--- [14:46:48] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [14:46:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":180,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [14:46:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":180,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [14:46:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":180,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [16:20:34] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [17:47:53] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [18:13:47] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [18:13:54] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [18:13:54] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1080,\"tradeUrl\":null}
+--------------
+--- [18:13:54] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1080,\"tradeUrl\":null}
+--------------
+--- [18:13:54] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1080,\"tradeUrl\":null}
+--------------
+--- [18:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1080,\"tradeUrl\":null}
+--------------
+--- [18:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1080,\"tradeUrl\":null}
+--------------
+--- [18:14:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1080,\"tradeUrl\":null}
+--------------
+--- [18:14:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1080,\"tradeUrl\":null}
+--------------
+--- [19:9:49] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:48:18] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:48:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":200,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:48:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":200,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:48:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":200,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [21:31:9] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [21:31:25] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [21:31:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":204,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1112034345","token":"8PS_mOhj
+--------------
+--- [21:31:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":204,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1112034345","token":"8PS_mOhj
+--------------
+--- [21:31:26] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":204,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1112034345","token":"8PS_mOhj
+--------------
+--- [21:31:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":204,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1112034345","token":"8PS_mOhj
+--------------
+--- [21:31:39] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [21:31:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":204,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1112034345","token":"8PS_mOhj
+--------------
+--- [21:31:40] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":204,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1112034345","token":"8PS_mOhj
+--------------
+--- [22:22:46] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [22:22:46] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:84751778) (ndex.js): \n {\"steamID\":\"STEAM_1:0:84751778\",\"name\":\"wrzesiu\",\"credits\":490,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"169503556","token":"qGGFUuV-
+--------------
+--- [22:22:46] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:84751778) (ndex.js): \n {\"steamID\":\"STEAM_1:0:84751778\",\"name\":\"wrzesiu\",\"credits\":490,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"169503556","token":"qGGFUuV-
+--------------
+--- [22:22:46] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:84751778) (ndex.js): \n {\"steamID\":\"STEAM_1:0:84751778\",\"name\":\"wrzesiu\",\"credits\":490,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"169503556","token":"qGGFUuV-
+--------------
+--- [23:6:51] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:59:44] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:59:44] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":200,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:59:44] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":200,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:59:44] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":200,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------

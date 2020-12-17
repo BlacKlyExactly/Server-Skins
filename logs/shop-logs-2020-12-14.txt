@@ -1,0 +1,39 @@
+--- [16:51:14] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [16:53:39] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [16:53:39] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:201414061) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [16:53:51] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [16:53:51] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:201414061) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [19:16:34] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:16:57] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:16:57] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:0:526956127) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [19:17:4] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:17:4] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:0:526956127) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [19:17:9] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:17:9] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:0:526956127) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [19:17:22] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------

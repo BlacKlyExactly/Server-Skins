@@ -1,0 +1,12 @@
+--- [14:3:38] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [22:28:8] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [22:28:16] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [22:28:16] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:440731506) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------

@@ -1,0 +1,258 @@
+--- [12:37:42] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:37:49] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:37:49] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:0:482780114) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [12:37:57] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:37:57] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:0:482780114) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [13:13:24] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:43:17] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:50:51] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:50:51] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [13:50:56] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:50:56] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [13:51:2] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:51:2] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [13:51:5] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [13:51:5] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:51:11] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:51:11] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [13:51:33] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:51:33] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [13:51:47] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [13:51:47] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:51:53] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [13:51:53] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:52:44] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [13:52:44] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:7:36] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [14:7:44] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [14:7:44] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:7:50] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [14:7:50] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:8:1] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [14:8:1] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:88465532) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:8:6] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [14:8:6] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:8:14] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [14:8:14] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:105659186) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:9:18] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:88465532) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:9:53] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:88465532) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:10:12] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:88465532) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:10:13] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [14:10:23] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [14:10:23] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:88465532) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [14:10:49] ---
+Błąd łączenia z bazą MySql (zwracanie użytkownika | klient: STEAM_1:1:88465532) (ndex.js): \n {\"errno\":\"ECONNREFUSED\",\"code\":\"ECONNREFUSED\",\"syscall\":\"connect\",\"address\":\"51.83.205.144\",\"port\":3306,\"fatal\":true}
+--------------
+--- [16:21:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [16:21:16] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [16:21:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [16:21:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [16:21:17] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [16:21:17] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [16:21:17] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [16:21:17] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [16:23:57] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [16:23:58] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [16:23:58] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:105659186) (ndex.js): \n {\"steamID\":\"STEAM_1:1:105659186\",\"name\":\"â‹† Ë¢ Ë¡ áµƒ Ê¸ áµ‰ Ê³ â‹†\",\"credits\":0,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"211318373","token":"2vJ6MKE5
+--------------
+--- [16:23:58] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:105659186) (ndex.js): \n {\"steamID\":\"STEAM_1:1:105659186\",\"name\":\"â‹† Ë¢ Ë¡ áµƒ Ê¸ áµ‰ Ê³ â‹†\",\"credits\":0,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"211318373","token":"2vJ6MKE5
+--------------
+--- [16:23:58] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:105659186) (ndex.js): \n {\"steamID\":\"STEAM_1:1:105659186\",\"name\":\"â‹† Ë¢ Ë¡ áµƒ Ê¸ áµ‰ Ê³ â‹†\",\"credits\":0,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"211318373","token":"2vJ6MKE5
+--------------
+--- [16:24:1] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [16:24:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:105659186) (ndex.js): \n {\"steamID\":\"STEAM_1:1:105659186\",\"name\":\"â‹† Ë¢ Ë¡ áµƒ Ê¸ áµ‰ Ê³ â‹†\",\"credits\":0,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"211318373","token":"2vJ6MKE5
+--------------
+--- [16:24:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:105659186) (ndex.js): \n {\"steamID\":\"STEAM_1:1:105659186\",\"name\":\"â‹† Ë¢ Ë¡ áµƒ Ê¸ áµ‰ Ê³ â‹†\",\"credits\":0,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"211318373","token":"2vJ6MKE5
+--------------
+--- [16:24:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:105659186) (ndex.js): \n {\"steamID\":\"STEAM_1:1:105659186\",\"name\":\"â‹† Ë¢ Ë¡ áµƒ Ê¸ áµ‰ Ê³ â‹†\",\"credits\":0,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"211318373","token":"2vJ6MKE5
+--------------
+--- [16:24:9] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [16:24:9] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":72,\"tradeUrl\":null}
+--------------
+--- [16:24:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":72,\"tradeUrl\":null}
+--------------
+--- [16:24:17] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":72,\"tradeUrl\":null}
+--------------
+--- [21:30:50] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [21:30:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:454458226) (ndex.js): \n {\"steamID\":\"STEAM_1:1:454458226\",\"name\":\"âœªDome_PLâœª\",\"credits\":1830,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"908916453","token":"-3nXM0gg
+--------------
+--- [21:30:59] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [21:30:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:454458226) (ndex.js): \n {\"steamID\":\"STEAM_1:1:454458226\",\"name\":\"âœªDome_PLâœª\",\"credits\":1830,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"908916453","token":"-3nXM0gg
+--------------
+--- [21:30:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:454458226) (ndex.js): \n {\"steamID\":\"STEAM_1:1:454458226\",\"name\":\"âœªDome_PLâœª\",\"credits\":1830,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"908916453","token":"-3nXM0gg
+--------------
+--- [22:12:21] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [22:12:30] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [22:12:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":null}
+--------------
+--- [22:12:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":null}
+--------------
+--- [22:12:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":null}
+--------------
+--- [22:15:56] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [22:16:1] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [22:16:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":null}
+--------------
+--- [22:16:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":null}
+--------------
+--- [22:16:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":null}
+--------------
+--- [22:16:10] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":null}
+--------------
+--- [22:16:10] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":null}
+--------------
+--- [22:16:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1053287416","token":"aHwFetJh
+--------------
+--- [22:16:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1053287416","token":"aHwFetJh
+--------------
+--- [22:16:56] ---
+Nie znaleziono wymian (klient: STEAM_1:0:526643708) (ndex.js): \n undefined
+--------------
+--- [22:16:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1053287416","token":"aHwFetJh
+--------------
+--- [22:16:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":1180,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1053287416","token":"aHwFetJh
+--------------

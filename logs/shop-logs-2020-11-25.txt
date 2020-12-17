@@ -1,0 +1,546 @@
+--- [6:42:58] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [6:44:13] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [6:44:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:571582112) (ndex.js): \n {\"steamID\":\"STEAM_1:1:571582112\",\"name\":\">>Klepun<<\",\"credits\":48,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1143164225","token":"_jaszWX4
+--------------
+--- [6:44:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:571582112) (ndex.js): \n {\"steamID\":\"STEAM_1:1:571582112\",\"name\":\">>Klepun<<\",\"credits\":48,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1143164225","token":"_jaszWX4
+--------------
+--- [6:44:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:571582112) (ndex.js): \n {\"steamID\":\"STEAM_1:1:571582112\",\"name\":\">>Klepun<<\",\"credits\":48,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1143164225","token":"_jaszWX4
+--------------
+--- [6:45:20] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:571582112) (ndex.js): \n {\"steamID\":\"STEAM_1:1:571582112\",\"name\":\">>Klepun<<\",\"credits\":48,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1143164225","token":"_jaszWX4
+--------------
+--- [6:45:20] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:571582112) (ndex.js): \n {\"steamID\":\"STEAM_1:1:571582112\",\"name\":\">>Klepun<<\",\"credits\":48,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1143164225","token":"_jaszWX4
+--------------
+--- [7:39:31] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [8:2:16] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [8:2:24] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [8:2:24] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [8:2:24] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [8:2:24] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [8:39:47] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [9:24:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:24:47] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [9:24:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:24:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:48:34] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:48:34] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [9:48:34] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:48:34] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:54:25] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [9:54:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:84751778) (ndex.js): \n {\"steamID\":\"STEAM_1:0:84751778\",\"name\":\"wrzesiu\",\"credits\":150,\"tradeUrl\":null}
+--------------
+--- [9:54:32] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [9:54:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:84751778) (ndex.js): \n {\"steamID\":\"STEAM_1:0:84751778\",\"name\":\"wrzesiu\",\"credits\":150,\"tradeUrl\":null}
+--------------
+--- [9:54:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:84751778) (ndex.js): \n {\"steamID\":\"STEAM_1:0:84751778\",\"name\":\"wrzesiu\",\"credits\":150,\"tradeUrl\":null}
+--------------
+--- [9:56:41] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [9:56:41] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:56:41] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:56:41] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:56:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:56:47] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [9:56:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [9:56:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [10:2:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [10:2:37] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [10:2:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [10:2:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [10:3:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [10:3:5] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [10:3:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [10:3:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [10:14:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [10:14:59] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [10:14:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [10:14:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [12:51:36] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [12:51:45] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:571582112) (ndex.js): \n {\"steamID\":\"STEAM_1:1:571582112\",\"name\":\">>Klepun<<\",\"credits\":48,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1143164225","token":"_jaszWX4
+--------------
+--- [12:51:45] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [12:51:45] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:571582112) (ndex.js): \n {\"steamID\":\"STEAM_1:1:571582112\",\"name\":\">>Klepun<<\",\"credits\":48,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1143164225","token":"_jaszWX4
+--------------
+--- [12:51:45] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:571582112) (ndex.js): \n {\"steamID\":\"STEAM_1:1:571582112\",\"name\":\">>Klepun<<\",\"credits\":48,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"1143164225","token":"_jaszWX4
+--------------
+--- [14:49:24] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [14:49:24] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [14:49:24] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [14:49:24] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [14:53:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [14:53:1] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [14:53:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [14:53:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:17:7] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:17:7] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [15:17:7] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:17:7] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:19:31] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [15:19:53] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:128203431) (ndex.js): \n {\"steamID\":\"STEAM_1:1:128203431\",\"name\":\"WebUser\",\"credits\":50,\"tradeUrl\":\"\"}
+--------------
+--- [15:19:53] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [15:19:54] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:128203431) (ndex.js): \n {\"steamID\":\"STEAM_1:1:128203431\",\"name\":\"WebUser\",\"credits\":50,\"tradeUrl\":\"\"}
+--------------
+--- [15:19:54] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:128203431) (ndex.js): \n {\"steamID\":\"STEAM_1:1:128203431\",\"name\":\"WebUser\",\"credits\":50,\"tradeUrl\":\"\"}
+--------------
+--- [15:22:33] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:22:33] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [15:22:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:22:37] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [15:22:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:22:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:22:42] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [15:22:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:22:47] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [15:22:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:22:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [15:31:49] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [16:28:12] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [16:28:12] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [16:28:12] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [16:28:12] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:11:3] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:16:43] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:16:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [19:16:50] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:16:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [19:16:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [19:21:21] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:23:15] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:23:22] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":180,\"tradeUrl\":null}
+--------------
+--- [19:23:22] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:23:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":180,\"tradeUrl\":null}
+--------------
+--- [19:23:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526643708) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526643708\",\"name\":\"Kluczyk\",\"credits\":180,\"tradeUrl\":null}
+--------------
+--- [19:24:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [19:24:0] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:24:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [19:24:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [19:24:2] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [19:24:2] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:24:2] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [19:24:2] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [19:25:53] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:25:54] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:26:33] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:26:42] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:26:42] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:440731506) (ndex.js): \n {\"steamID\":\"STEAM_1:1:440731506\",\"name\":\"`Leon How2kill.pl\",\"credits\":56,\"tradeUrl\":null}
+--------------
+--- [19:26:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:440731506) (ndex.js): \n {\"steamID\":\"STEAM_1:1:440731506\",\"name\":\"`Leon How2kill.pl\",\"credits\":56,\"tradeUrl\":null}
+--------------
+--- [19:26:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:440731506) (ndex.js): \n {\"steamID\":\"STEAM_1:1:440731506\",\"name\":\"`Leon How2kill.pl\",\"credits\":56,\"tradeUrl\":null}
+--------------
+--- [19:26:52] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:26:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526729942) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526729942\",\"name\":\"ã„ã”ã¿ã”\",\"credits\":220,\"tradeUrl\":null}
+--------------
+--- [19:26:56] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:26:58] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526729942) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526729942\",\"name\":\"ã„ã”ã¿ã”\",\"credits\":220,\"tradeUrl\":null}
+--------------
+--- [19:26:58] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526729942) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526729942\",\"name\":\"ã„ã”ã¿ã”\",\"credits\":220,\"tradeUrl\":null}
+--------------
+--- [19:35:32] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:42:45] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:42:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:454458226) (ndex.js): \n {\"steamID\":\"STEAM_1:1:454458226\",\"name\":\"âœªDome_PLâœª\",\"credits\":230,\"tradeUrl\":null}
+--------------
+--- [19:42:52] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:42:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:454458226) (ndex.js): \n {\"steamID\":\"STEAM_1:1:454458226\",\"name\":\"âœªDome_PLâœª\",\"credits\":230,\"tradeUrl\":null}
+--------------
+--- [19:42:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:454458226) (ndex.js): \n {\"steamID\":\"STEAM_1:1:454458226\",\"name\":\"âœªDome_PLâœª\",\"credits\":230,\"tradeUrl\":null}
+--------------
+--- [19:45:38] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:45:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:540074277) (ndex.js): \n {\"steamID\":\"STEAM_1:0:540074277\",\"name\":\"Fat Kubica w Audi A3\",\"credits\":120,\"tradeUrl\":null}
+--------------
+--- [19:45:50] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:45:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:540074277) (ndex.js): \n {\"steamID\":\"STEAM_1:0:540074277\",\"name\":\"Fat Kubica w Audi A3\",\"credits\":120,\"tradeUrl\":null}
+--------------
+--- [19:45:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:540074277) (ndex.js): \n {\"steamID\":\"STEAM_1:0:540074277\",\"name\":\"Fat Kubica w Audi A3\",\"credits\":120,\"tradeUrl\":null}
+--------------
+--- [19:53:52] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:54:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:33170208) (ndex.js): \n {\"steamID\":\"STEAM_1:1:33170208\",\"name\":\"WebUser\",\"credits\":10,\"tradeUrl\":\"\"}
+--------------
+--- [19:54:0] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:54:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:33170208) (ndex.js): \n {\"steamID\":\"STEAM_1:1:33170208\",\"name\":\"WebUser\",\"credits\":10,\"tradeUrl\":\"\"}
+--------------
+--- [19:54:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:33170208) (ndex.js): \n {\"steamID\":\"STEAM_1:1:33170208\",\"name\":\"WebUser\",\"credits\":10,\"tradeUrl\":\"\"}
+--------------
+--- [19:58:35] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [19:58:35] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526729942) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526729942\",\"name\":\"ã„ã”ã¿ã”\",\"credits\":220,\"tradeUrl\":null}
+--------------
+--- [19:58:35] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526729942) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526729942\",\"name\":\"ã„ã”ã¿ã”\",\"credits\":220,\"tradeUrl\":null}
+--------------
+--- [19:58:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526729942) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526729942\",\"name\":\"ã„ã”ã¿ã”\",\"credits\":220,\"tradeUrl\":null}
+--------------
+--- [20:1:59] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:2:26] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:11:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [20:11:25] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:11:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [20:11:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [20:14:41] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:14:58] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526729942) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526729942\",\"name\":\"ã„ã”ã¿ã”\",\"credits\":220,\"tradeUrl\":null}
+--------------
+--- [20:14:58] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:14:58] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526729942) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526729942\",\"name\":\"ã„ã”ã¿ã”\",\"credits\":220,\"tradeUrl\":null}
+--------------
+--- [20:14:58] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:526729942) (ndex.js): \n {\"steamID\":\"STEAM_1:0:526729942\",\"name\":\"ã„ã”ã¿ã”\",\"credits\":220,\"tradeUrl\":null}
+--------------
+--- [20:18:25] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:18:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:18:56] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:18:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:18:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:19:22] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:19:37] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:19:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:551662485) (ndex.js): \n {\"steamID\":\"STEAM_1:1:551662485\",\"name\":\"myszka miki\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:19:50] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:19:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:551662485) (ndex.js): \n {\"steamID\":\"STEAM_1:1:551662485\",\"name\":\"myszka miki\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:19:50] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:551662485) (ndex.js): \n {\"steamID\":\"STEAM_1:1:551662485\",\"name\":\"myszka miki\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:20:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:551662485) (ndex.js): \n {\"steamID\":\"STEAM_1:1:551662485\",\"name\":\"myszka miki\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:20:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:551662485) (ndex.js): \n {\"steamID\":\"STEAM_1:1:551662485\",\"name\":\"myszka miki\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:21:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:21:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:556017172) (ndex.js): \n {\"steamID\":\"STEAM_1:1:556017172\",\"name\":\"skaziak\",\"credits\":50,\"tradeUrl\":null}
+--------------
+--- [20:30:21] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:30:53] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:30:54] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [20:30:54] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:30:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [20:30:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:201414061) (ndex.js): \n {\"steamID\":\"STEAM_1:1:201414061\",\"name\":\"Desnox | How2kill.pl\",\"credits\":0,\"tradeUrl\":null}
+--------------
+--- [20:40:33] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:40:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:163401118) (ndex.js): \n {\"steamID\":\"STEAM_1:0:163401118\",\"name\":\"âœªAZZTORMâœª\",\"credits\":80,\"tradeUrl\":null}
+--------------
+--- [20:40:55] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [20:40:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:163401118) (ndex.js): \n {\"steamID\":\"STEAM_1:0:163401118\",\"name\":\"âœªAZZTORMâœª\",\"credits\":80,\"tradeUrl\":null}
+--------------
+--- [20:40:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:163401118) (ndex.js): \n {\"steamID\":\"STEAM_1:0:163401118\",\"name\":\"âœªAZZTORMâœª\",\"credits\":80,\"tradeUrl\":null}
+--------------
+--- [20:41:21] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:163401118) (ndex.js): \n {\"steamID\":\"STEAM_1:0:163401118\",\"name\":\"âœªAZZTORMâœª\",\"credits\":80,\"tradeUrl\":null}
+--------------
+--- [20:41:21] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:163401118) (ndex.js): \n {\"steamID\":\"STEAM_1:0:163401118\",\"name\":\"âœªAZZTORMâœª\",\"credits\":80,\"tradeUrl\":null}
+--------------
+--- [20:47:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:163401118) (ndex.js): \n {\"steamID\":\"STEAM_1:0:163401118\",\"name\":\"âœªAZZTORMâœª\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"326802236","token":"SE2DDMjX
+--------------
+--- [21:44:35] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [21:44:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:420724813) (ndex.js): \n {\"steamID\":\"STEAM_1:0:420724813\",\"name\":\"pejsti\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"841449626","token":"Te3eI62k
+--------------
+--- [21:44:43] ---
+Błąd zapisywanie ekwipubku 76561199109675272 (ndex.js):\n {\"message\":\"Request failed with status code 404\",\"name\":\"Error\",\"stack\":\"Error: Request failed with status code 404\\n    at createError (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/createError.js:16:15)\\n    at settle (/home/ubuntu/Server-Skins/node_modules/axios/lib/core/settle.js:17:12)\\n    at IncomingMessage.handleStreamEnd (/home/ubuntu/Server-Skins/node_modules/axios/lib/adapters/http.js:244:11)\\n    at IncomingMessage.emit (events.js:203:15)\\n    at endReadableNT (_stream_readable.js:1145:12)\\n    at process._tickCallback (internal/process/next_tick.js:63:19)\",\"config\":{\"url\":\"http://localhost:3000/profiles/76561199109675272/inventory/json/730/2\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"User-Agent\":\"axios/0.20.0\"},\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1,\"maxBodyLength\":-1}}
+--------------
+--- [21:44:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:420724813) (ndex.js): \n {\"steamID\":\"STEAM_1:0:420724813\",\"name\":\"pejsti\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"841449626","token":"Te3eI62k
+--------------
+--- [21:44:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:0:420724813) (ndex.js): \n {\"steamID\":\"STEAM_1:0:420724813\",\"name\":\"pejsti\",\"credits\":80,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"841449626","token":"Te3eI62k
+--------------

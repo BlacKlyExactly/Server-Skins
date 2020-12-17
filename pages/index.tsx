@@ -25,7 +25,7 @@ const Wrapper = styled.div`
 
 const selects: Array<UpNavItem> = [
   { name: "Strona Główna", path: "/", icon: faHome },
-  { name: "FAQ", path: "/faq", icon: faDiceFive },
+  { name: "FAQ", path: "https://how2kill.pl/f.a.q-sklepiku-ze-skinami/", icon: faDiceFive },
   { name: "Forum", path: "https://how2kill.pl/", icon: faDizzy }
 ];
 
