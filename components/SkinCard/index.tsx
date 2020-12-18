@@ -35,7 +35,7 @@ const isStatTrak = ( tags: Array<Tag> ): boolean => {
 }
 
 const SkinCard: FC<SkinCardProps> = ({ data, index, userData }) => {
-    const [ price, setPrice ] = useState(0);
+    const [ price, setPrice ] = useState(undefined);
 
     const card = useRef<HTMLDivElement>(null);
     const buyAction = useBuy(userData, price, data.name, data.classid); 
@@ -45,10 +45,10 @@ const SkinCard: FC<SkinCardProps> = ({ data, index, userData }) => {
             try {
                 if(!data.market_hash_name) return;
                     const response: AxiosResponse = await axios.get(`api/prices/${unescape(data.market_hash_name)}&${index}`);
-                    const median: string | undefined = response.data ? response.data.median.toString() : undefined;
-                    const price: string | undefined = median ? median.replace(".", "") : "";
-                        
-                    setPrice(parseInt(price));
+                    const median: number | undefined = response.data ? response.data.median : undefined;
+                    const medianPrice: number | undefined = median ? median * 100 : undefined;
+                    
+		    medianPrice && setPrice(medianPrice.toFixed());
             } catch (error) {
                 console.log(error);
             }

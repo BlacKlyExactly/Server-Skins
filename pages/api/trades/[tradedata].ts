@@ -25,10 +25,10 @@ export default ( req: NextApiRequest, res: NextApiResponse ) => {
 
         const queryData: Array<string> = tradedata.split("&");
         const [ steamId, itemCid, price ] = queryData;
-
+	
         bot.client.on('webSession', async ( sid, cookies ) => {
             try {
-                const response: AxiosResponse = await axios.get(`http://localhost:${process.env.PORT ? process.env.PORT : 3000}/api/users/${steamId}`);
+                const response: AxiosResponse = await axios.get(`http://localhost:3000/api/users/${steamId}`);
                 const tradeUrl: string = response.data.tradeUrl;
                
                 bot.setCookies(cookies);
@@ -46,7 +46,7 @@ export default ( req: NextApiRequest, res: NextApiResponse ) => {
                         }
 
                         connection.query(
-                            "INSERT INTO `server-skins_trades` (`tradeId`, `steamID`, `price`, `itemName`, `tradeUrl`, `status`) VALUES(?, ?, ?, ?, ?, ?)",
+                            "INSERT INTO `server-skins_trades-history` (`tradeId`, `steamID`, `price`, `itemName`, `tradeUrl`, `status`) VALUES(?, ?, ?, ?, ?, ?)",
                             [ offer.id, steamId, price, tradeItem.name, tradeUrl, TradeStatus.Pending ],
                             ( error: QueryError, result: RowDataPacket[], fields: FieldPacket[] ) => {
                                 if(error){

@@ -49,13 +49,19 @@ class TradeBot {
             this.client.gamesPlayed('[How2kill] Skiny');
         })
 
+	this.client.on('disconnected', () => {
+	    setTimeout(() => {
+	          this.logOn();
+	    }, 10000)
+	})
+
         bot.manager.on("sentOfferChanged", async ( offer: any ) => {
             console.log(offer.state);
             try {
                 const trade: any = await this.findTradeById(offer.id);
         
                 try {
-                    const user: any = await axios.get(`${url}/api/users/${trade.steamID}`);
+                    const user: any = await axios.get(`http://localhost:3000/api/users/${trade.steamID}`);
                     console.log(user);
 
                     if(offer.state === 3){
@@ -129,7 +135,7 @@ class TradeBot {
             })
     
             connection.query(
-                'SELECT * FROM `server-skins_trades` WHERE `tradeId`=?',
+                'SELECT * FROM `server-skins_trades-history` WHERE `tradeId`=?',
                 [ tradeid ],
                 ( error: QueryError, result: RowDataPacket[], fields: FieldPacket[] ) => {
                     if(error){
@@ -160,7 +166,7 @@ class TradeBot {
             })
     
             connection.query(
-                'UPDATE `server-skins_trades` SET `status`=? WHERE `tradeId`=?',
+                'UPDATE `server-skins_trades-history` SET `status`=? WHERE `tradeId`=?',
                 [ status, tradeid ],
                 ( error: QueryError, result: RowDataPacket[], fields: FieldPacket[] ) => {
                     if(error){

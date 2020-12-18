@@ -21,7 +21,7 @@ export default ( req: NextApiRequest, res: NextApiResponse ) => {
             }
 
             connection.query(
-                'SELECT * FROM `server-skins_trades` WHERE steamID=?',
+                'SELECT * FROM `server-skins_trades-history` WHERE steamID=?',
                 [ steamId ],
                 ( error: QueryError, result: RowDataPacket[], fields: FieldPacket[] ) => {
                     if(error) {

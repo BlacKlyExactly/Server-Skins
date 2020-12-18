@@ -21,7 +21,7 @@ export default ( req: NextApiRequest, res: NextApiResponse ) => {
             }
     
             connection.query('CREATE TABLE IF NOT EXISTS `server-skins_users` (steamID VARCHAR(64) UNIQUE, name VARCHAR(64), credits INT NULL, tradeUrl VARCHAR(128));');
-            connection.query('CREATE TABLE IF NOT EXISTS `server-skins_trades` (tradeId VARCHAR(128), steamID VARCHAR(64), price INT, itemName VARCHAR(128), tradeUrl VARCHAR(128));');
+            connection.query('CREATE TABLE IF NOT EXISTS `server-skins_trades-history` (tradeId VARCHAR(128), steamID VARCHAR(64), price INT, itemName VARCHAR(128), tradeUrl VARCHAR(128), status INT);');
     
             connection.query(
                 'SELECT * FROM `server-skins_users` WHERE steamID=?',
