@@ -50,7 +50,7 @@ export default ( req: NextApiRequest, res: NextApiResponse ) => {
                 return resolve(200);
             }
             
-            await sleep(index * 3300);
+            await sleep(index * 4000);
 
             console.log(`Not cached ${name}`);
             logger(`Zapisywanie ceny dla ${name} (${scriptName})`);
