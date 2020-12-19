@@ -20,7 +20,7 @@ const UpNavigation: FC<UpNavigationProps> = ({ data }) => {
         <Wrapper>
             <Selects>
                 {
-                    data && clientData ? (
+                    data ? (
                         <User>
                             <Avatar url={data.avatar}/>
                             <Nickname>
@@ -28,7 +28,7 @@ const UpNavigation: FC<UpNavigationProps> = ({ data }) => {
                             </Nickname>
                             <Dropdown data={data}/>
                             <Balance>
-                                {clientData.credits} $
+                                {clientData ? clientData.credits : 0} $
                             </Balance>
                         </User>
                     ) : <LoginButton/>

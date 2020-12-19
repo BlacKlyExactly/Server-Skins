@@ -1414,3 +1414,891 @@ Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"
 --- [17:25:46] ---
 Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
 --------------
+--- [18:30:40] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [18:30:41] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [18:30:45] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [18:30:49] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js)
+--------------
+--- [18:30:53] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [18:30:57] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [18:31:1] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js)
+--------------
+--- [18:31:6] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Battle Green) (ndex.js)
+--------------
+--- [18:31:14] ---
+Zapisywanie ceny dla Danger Zone Case (ndex.js)
+--------------
+--- [18:31:25] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [18:31:25] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [18:31:25] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [18:31:25] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [18:31:25] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [18:31:25] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [18:31:25] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [18:31:25] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [18:31:25] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [18:31:57] ---
+Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
+--------------
+--- [18:31:59] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [18:31:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:31:59] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [18:31:59] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [18:31:59] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [18:31:59] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [18:31:59] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [18:31:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:31:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:31:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:31:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:31:59] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [18:31:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:31:59] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [18:31:59] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [18:31:59] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:31:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:31:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:1] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [18:32:5] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [18:32:9] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [18:32:13] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [18:32:17] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [18:32:35] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [18:32:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:40] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [18:32:40] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:40] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:44] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [18:32:44] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:48] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [18:32:52] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [18:32:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:32:54] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [18:32:56] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [18:33:36] ---
+Zapisywanie ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js)
+--------------
+--- [18:33:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:33:44] ---
+Zapisywanie ceny dla Clutch Case (ndex.js)
+--------------
+--- [18:33:45] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:33:45] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:33:52] ---
+Zapisywanie ceny dla P2000 | Gnarled (Well-Worn) (ndex.js)
+--------------
+--- [18:34:0] ---
+Zapisywanie ceny dla P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [18:34:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:34:8] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js)
+--------------
+--- [18:34:9] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:34:17] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [18:34:17] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:35:1] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [18:35:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:35:13] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [18:35:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:35:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:35:25] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [18:35:37] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [18:35:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:35:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:35:49] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [18:36:1] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [18:36:2] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:36:2] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [18:36:2] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:36:2] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:36:2] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:36:2] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [18:36:49] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [18:37:5] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [18:37:21] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [18:37:37] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [18:37:43] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [18:37:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:37:43] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:37:43] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:37:43] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [18:37:50] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [18:37:53] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [18:37:54] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [18:37:58] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [18:38:2] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [18:38:6] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [18:38:10] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [18:40:44] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:40:44] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:40:44] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:40:44] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [18:40:45] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [18:40:45] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:40:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:40:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:41:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:41:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:41:41] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:42:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:42:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:42:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:42:11] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [18:42:11] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [18:42:11] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:42:11] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:42:11] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:42:11] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:42:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:43:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:54:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:54:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:54:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:54:18] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [18:54:19] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [18:54:19] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:54:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:54:28] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:54:44] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:55:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [18:55:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:3:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:3:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:3:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:3:38] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [19:3:38] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [19:3:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:3:41] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:3:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:2] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:2] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:2] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:7] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:7] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:7] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:11] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:4:11] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [19:4:11] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:12] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:12] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:12] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:28] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:4:28] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [19:4:28] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:28] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:28] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:28] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:36] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:4:36] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [19:4:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:4:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:5:45] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:22] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:22] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:22] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:22] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [19:7:23] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [19:7:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:8:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:8:21] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:8:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:8:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:10:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:10:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:10:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:10:36] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [19:10:36] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [19:10:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:10:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:10:53] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:11:24] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:13:42] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:13:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:13:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:13:43] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [19:13:43] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [19:13:43] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:13:45] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:14:53] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:14:53] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:14:53] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:14:53] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [19:14:53] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [19:14:54] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:14:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:14:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:19:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:19:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:19:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:19:47] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [19:19:48] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [19:19:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:19:51] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:19:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:20:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:20:17] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:20:28] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:20:28] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:20:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:20:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:20:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:20:58] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:20:58] ---
+Pomyślnie ustawiono kredyty (klient: STEAM_1:1:88465532, wartość 208) (ndex.js):\r\n null
+--------------
+--- [19:20:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:21:5] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:21:5] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [19:21:20] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:21:20] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
