@@ -49,12 +49,6 @@ class TradeBot {
             this.client.gamesPlayed('[How2kill] Skiny');
         })
 
-	this.client.on('disconnected', () => {
-	    setTimeout(() => {
-	          this.logOn();
-	    }, 10000)
-	})
-
         bot.manager.on("sentOfferChanged", async ( offer: any ) => {
             console.log(offer.state);
             try {
@@ -65,7 +59,7 @@ class TradeBot {
                     console.log(user);
 
                     if(offer.state === 3){
-                        axios.get(`${url}/api/users/setcredits/${trade.steamID}&${user.data.credits - trade.price}`);
+                        axios.get(`http://localhost:3000/api/users/setcredits/${trade.steamID}&${user.data.credits - trade.price}`);
                         this.updateTrade(offer.id, TradeStatus.Accepted);
                     }
 

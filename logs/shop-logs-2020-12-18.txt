@@ -18412,3 +18412,372 @@ Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
 --- [22:41:9] ---
 Błąd zapisywania ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
 --------------
+--- [22:41:12] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [22:41:13] ---
+Błąd zapisywania ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:15] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [22:41:16] ---
+Błąd zapisywania ceny dla Prisma Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:19] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [22:41:19] ---
+Błąd zapisywania ceny dla Prisma 2 Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:22] ---
+Zapisywanie ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js)
+--------------
+--- [22:41:23] ---
+Błąd zapisywania ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:25] ---
+Zapisywanie ceny dla Clutch Case (ndex.js)
+--------------
+--- [22:41:26] ---
+Błąd zapisywania ceny dla Clutch Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:29] ---
+Zapisywanie ceny dla P2000 | Gnarled (Well-Worn) (ndex.js)
+--------------
+--- [22:41:29] ---
+Błąd zapisywania ceny dla P2000 | Gnarled (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:32] ---
+Zapisywanie ceny dla P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [22:41:32] ---
+Błąd zapisywania ceny dla P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:35] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js)
+--------------
+--- [22:41:36] ---
+Błąd zapisywania ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:39] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [22:41:39] ---
+Błąd zapisywania ceny dla Tec-9 | Brother (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:42] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [22:41:42] ---
+Błąd zapisywania ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:45] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [22:41:45] ---
+Błąd zapisywania ceny dla MAC-10 | Allure (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:49] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [22:41:49] ---
+Błąd zapisywania ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:52] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [22:41:52] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:55] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [22:41:55] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:41:58] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [22:41:59] ---
+Błąd zapisywania ceny dla MAC-10 | Allure (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:2] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [22:42:2] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:5] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [22:42:5] ---
+Błąd zapisywania ceny dla Tec-9 | Brother (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:8] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [22:42:9] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:12] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [22:42:12] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:15] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [22:42:15] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:18] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [22:42:18] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:22] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [22:42:22] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:25] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [22:42:25] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:28] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [22:42:28] ---
+Błąd zapisywania ceny dla Tec-9 | Brother (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:31] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [22:42:32] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:35] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [22:42:35] ---
+Błąd zapisywania ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:38] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [22:42:38] ---
+Błąd zapisywania ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:41] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [22:42:42] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:45] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [22:42:45] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:48] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [22:42:48] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:42:51] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [22:42:51] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:58:57] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [22:58:57] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Monarch Blue) (ndex.js)
+--------------
+--- [22:58:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [22:58:58] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Noscope (Monarch Blue) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:0] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [22:59:0] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:3] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [22:59:4] ---
+Błąd zapisywania ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:19] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [22:59:19] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [22:59:20] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:23] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [22:59:23] ---
+Błąd zapisywania ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:26] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js)
+--------------
+--- [22:59:26] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:29] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [22:59:29] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:32] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [22:59:33] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:36] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js)
+--------------
+--- [22:59:36] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:39] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Battle Green) (ndex.js)
+--------------
+--- [22:59:39] ---
+Błąd zapisywania ceny dla Sealed Graffiti | X-Knives (Battle Green) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:42] ---
+Zapisywanie ceny dla Danger Zone Case (ndex.js)
+--------------
+--- [22:59:43] ---
+Błąd zapisywania ceny dla Danger Zone Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:46] ---
+Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
+--------------
+--- [22:59:46] ---
+Błąd zapisywania ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:49] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [22:59:49] ---
+Błąd zapisywania ceny dla AWP | Atheris (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:52] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [22:59:52] ---
+Błąd zapisywania ceny dla USP-S | Cortex (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:56] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [22:59:56] ---
+Błąd zapisywania ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [22:59:59] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [22:59:59] ---
+Błąd zapisywania ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:2] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [23:0:2] ---
+Błąd zapisywania ceny dla Prisma Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:5] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [23:0:6] ---
+Błąd zapisywania ceny dla Prisma 2 Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:9] ---
+Zapisywanie ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js)
+--------------
+--- [23:0:9] ---
+Błąd zapisywania ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:12] ---
+Zapisywanie ceny dla Clutch Case (ndex.js)
+--------------
+--- [23:0:12] ---
+Błąd zapisywania ceny dla Clutch Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:15] ---
+Zapisywanie ceny dla P2000 | Gnarled (Well-Worn) (ndex.js)
+--------------
+--- [23:0:16] ---
+Błąd zapisywania ceny dla P2000 | Gnarled (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:19] ---
+Zapisywanie ceny dla P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [23:0:19] ---
+Błąd zapisywania ceny dla P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:22] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js)
+--------------
+--- [23:0:22] ---
+Błąd zapisywania ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:25] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [23:0:25] ---
+Błąd zapisywania ceny dla Tec-9 | Brother (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:29] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [23:0:29] ---
+Błąd zapisywania ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:32] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [23:0:32] ---
+Błąd zapisywania ceny dla MAC-10 | Allure (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:35] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [23:0:35] ---
+Błąd zapisywania ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:38] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [23:0:39] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [23:0:42] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [23:0:42] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------

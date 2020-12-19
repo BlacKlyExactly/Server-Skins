@@ -1,0 +1,1416 @@
+--- [8:21:6] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [8:21:6] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [8:21:6] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [8:21:9] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [8:21:10] ---
+Błąd zapisywania ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [8:21:13] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js)
+--------------
+--- [8:21:13] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [8:21:16] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [8:21:16] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [8:21:19] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [8:21:20] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [8:21:23] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js)
+--------------
+--- [17:9:30] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [17:9:30] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [17:9:34] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [17:9:37] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js)
+--------------
+--- [17:9:40] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [17:9:44] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [17:9:47] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js)
+--------------
+--- [17:9:50] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Battle Green) (ndex.js)
+--------------
+--- [17:9:53] ---
+Zapisywanie ceny dla Danger Zone Case (ndex.js)
+--------------
+--- [17:9:57] ---
+Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
+--------------
+--- [17:10:0] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [17:10:3] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [17:10:7] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [17:10:10] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [17:10:13] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [17:10:17] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [17:10:20] ---
+Zapisywanie ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js)
+--------------
+--- [17:10:23] ---
+Zapisywanie ceny dla Clutch Case (ndex.js)
+--------------
+--- [17:10:26] ---
+Zapisywanie ceny dla P2000 | Gnarled (Well-Worn) (ndex.js)
+--------------
+--- [17:10:30] ---
+Zapisywanie ceny dla P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [17:10:33] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js)
+--------------
+--- [17:10:36] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [17:10:40] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [17:10:43] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [17:10:46] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [17:10:50] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [17:10:53] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [17:10:56] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [17:10:59] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [17:11:3] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [17:11:6] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [17:11:9] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [17:11:13] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [17:11:16] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [17:11:19] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [17:11:23] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [17:11:26] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [17:11:29] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [17:11:32] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [17:11:36] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [17:11:39] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [17:11:42] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [17:11:46] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [17:11:49] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [17:12:24] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla StatTrak™ P90 | Freight (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla StatTrak™ P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla StatTrak™ P250 | Cassette (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Sealed Graffiti | GLHF (Tiger Orange) jest już zapisana (ndex.js)
+--------------
+--- [17:12:24] ---
+Cena dla Sealed Graffiti | Backstab (War Pig Pink) jest już zapisana (ndex.js)
+--------------
+--- [17:12:36] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [17:12:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:36] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [17:12:36] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:12:36] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [17:12:36] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:12:36] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:12:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:37] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla StatTrak™ P90 | Freight (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla StatTrak™ P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:37] ---
+Cena dla Sealed Graffiti | Backstab (War Pig Pink) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla StatTrak™ P250 | Cassette (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Cena dla Sealed Graffiti | GLHF (Tiger Orange) jest już zapisana (ndex.js)
+--------------
+--- [17:12:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:12:53] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:24] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:35] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [17:13:35] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:35] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:35] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:35] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:13:35] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla StatTrak™ P90 | Freight (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla StatTrak™ P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla Sealed Graffiti | GLHF (Tiger Orange) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla StatTrak™ P250 | Cassette (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Cena dla Sealed Graffiti | Backstab (War Pig Pink) jest już zapisana (ndex.js)
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:37] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:38] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:13:41] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:12] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [17:14:12] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla StatTrak™ P90 | Freight (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla StatTrak™ P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla StatTrak™ P250 | Cassette (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Sealed Graffiti | GLHF (Tiger Orange) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Cena dla Sealed Graffiti | Backstab (War Pig Pink) jest już zapisana (ndex.js)
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:14:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:14] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [17:24:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:14] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:14] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla StatTrak™ P90 | Freight (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla StatTrak™ P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Sealed Graffiti | Backstab (War Pig Pink) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla Sealed Graffiti | GLHF (Tiger Orange) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Cena dla StatTrak™ P250 | Cassette (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [17:24:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:24:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [17:25:46] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
