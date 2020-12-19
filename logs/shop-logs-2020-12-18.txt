@@ -18412,6 +18412,7 @@ Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
 --- [22:41:9] ---
 Błąd zapisywania ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
 --------------
+<<<<<<< HEAD
 --- [22:41:12] ---
 Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
 --------------
@@ -18780,4 +18781,590 @@ Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
 --------------
 --- [23:0:42] ---
 Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+=======
+--- [23:46:14] ---
+Zapisywanie ekwipunku undefined (ndex.js)
+--------------
+--- [23:47:37] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [23:47:39] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Monarch Blue) (ndex.js)
+--------------
+--- [23:47:42] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Dust Brown) (ndex.js)
+--------------
+--- [23:47:46] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [23:47:49] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js)
+--------------
+--- [23:47:52] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [23:47:56] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [23:47:59] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js)
+--------------
+--- [23:48:6] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Battle Green) (ndex.js)
+--------------
+--- [23:48:12] ---
+Zapisywanie ceny dla Danger Zone Case (ndex.js)
+--------------
+--- [23:48:19] ---
+Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
+--------------
+--- [23:48:26] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [23:48:32] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [23:48:39] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [23:48:50] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [23:48:59] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [23:49:9] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [23:49:19] ---
+Zapisywanie ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js)
+--------------
+--- [23:49:29] ---
+Zapisywanie ceny dla Clutch Case (ndex.js)
+--------------
+--- [23:49:39] ---
+Zapisywanie ceny dla P2000 | Gnarled (Well-Worn) (ndex.js)
+--------------
+--- [23:49:53] ---
+Zapisywanie ceny dla P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [23:50:5] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js)
+--------------
+--- [23:50:8] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Sealed Graffiti | Noscope (Monarch Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:8] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [23:50:19] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [23:50:36] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Sealed Graffiti | Noscope (Monarch Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:36] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:50:47] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [23:51:1] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [23:51:16] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [23:51:32] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [23:51:34] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [23:51:36] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:51:36] ---
+Cena dla Sealed Graffiti | Noscope (Monarch Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:51:36] ---
+Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [23:51:36] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [23:51:36] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [23:51:36] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [23:51:36] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [23:51:36] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [23:51:36] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [23:51:37] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [23:51:40] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [23:51:44] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [23:51:48] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [23:51:50] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [23:52:2] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [23:52:4] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [23:52:8] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [23:52:12] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [23:52:16] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [23:52:20] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [23:52:24] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [23:52:29] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [23:52:32] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [23:52:36] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [23:52:38] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:52:38] ---
+Cena dla Sealed Graffiti | Noscope (Monarch Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:52:40] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [23:52:44] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [23:52:48] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [23:52:52] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [23:52:56] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [23:53:0] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [23:53:1] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:53:1] ---
+Cena dla Sealed Graffiti | Noscope (Monarch Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:53:4] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [23:53:8] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [23:53:12] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [23:53:16] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [23:53:20] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [23:53:21] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [23:53:22] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [23:53:24] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [23:53:25] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [23:53:28] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [23:53:29] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [23:53:31] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:53:31] ---
+Cena dla Sealed Graffiti | Noscope (Monarch Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:53:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:53:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:53:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:53:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:53:33] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [23:53:37] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [23:53:39] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:53:44] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [23:53:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:53:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:53:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:53:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:12] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:12] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:19] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:22] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:25] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:54:25] ---
+Cena dla Sealed Graffiti | Noscope (Monarch Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:54:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:25] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:26] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:48] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:49] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:51] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:54:51] ---
+Cena dla Sealed Graffiti | Noscope (Monarch Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:54:51] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:51] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:51] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:54:51] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:1] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:13] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:20] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:36] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:40] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:40] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [23:55:40] ---
+Cena dla Sealed Graffiti | Noscope (Monarch Blue) jest już zapisana (ndex.js)
+--------------
+--- [23:55:40] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:41] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [23:55:41] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \r\n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":210,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+>>>>>>> ea32e31393f2b3e364e532335a537198cb76b070
 --------------
