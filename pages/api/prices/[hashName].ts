@@ -2,6 +2,7 @@ import { NextApiRequest, NextApiResponse } from 'next';
 import cacheData from "memory-cache";
 import logger from "../../../utils/logger";
 import os from "os";
+import NextCors from 'nextjs-cors';
 
 const scriptName: string = __filename.slice(__dirname.length + 1);
 
@@ -21,6 +22,12 @@ const sleep = ( ms: number ) => {
 } 
 
 export default async ( req: NextApiRequest, res: NextApiResponse ) => {
+    await NextCors(req, res, {
+        methods: ['GET'],
+        origin: 'http://localhost:3000',
+        optionsSuccessStatus: 200,
+    });
+
     return new Promise(async ( resolve: any ) => {
         const {
             query: { hashName },

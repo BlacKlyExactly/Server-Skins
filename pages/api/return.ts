@@ -5,8 +5,6 @@ import SteamID from "steamid";
 import jwt from "jsonwebtoken";
 import logger from "../../utils/logger";
 import os from "os";
-import url from "../../utils/adress";
-import NextCors from 'nextjs-cors';
 
 const scriptName: string = __filename.slice(__dirname.length + 1);
 

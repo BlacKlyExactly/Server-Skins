@@ -8,7 +8,7 @@ interface WrapperProps {
 
 export const Wrapper = styled.div<WrapperProps>`
     position: relative;
-    min-width: 177px;
+    min-width: 200px;
     height: 300px; 
     margin: 5px 20px 5px 20px;
     transition: transform 0.15s;

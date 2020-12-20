@@ -1,7 +1,6 @@
 import React, { FC, useEffect, useState, useRef } from "react";
 import axios, { AxiosResponse } from "axios";
 import SkinDetails from "../SkinDetails";
-import Loader from "../Loader";
 import useBuy from "../../hooks/useBuy";
 
 import {
@@ -58,7 +57,7 @@ const SkinCard: FC<SkinCardProps> = ({ data, index, userData }) => {
     }, [ ])
     
     return(
-        price && (
+        price ? (
             <Wrapper 
                 ref={card} 
                 isLoaded={price ? false : true}
@@ -80,7 +79,7 @@ const SkinCard: FC<SkinCardProps> = ({ data, index, userData }) => {
                     buyAction={buyAction}
                 />            
             </Wrapper>
-        )
+        ) : null
     )
 };
 

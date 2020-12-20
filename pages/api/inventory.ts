@@ -3,10 +3,17 @@ import axios, { AxiosResponse } from "axios";
 import cacheData from "memory-cache";
 import logger from "../../utils/logger";
 import os from "os";
+import NextCors from 'nextjs-cors';
 
 const scriptName: string = __filename.slice(__dirname.length + 1);
 
 export default async ( req: NextApiRequest, res: NextApiResponse ) => {
+    await NextCors(req, res, {
+        methods: ['GET'],
+        origin: 'http://localhost:3000',
+        optionsSuccessStatus: 200,
+    });
+
     try {
         const value = cacheData.get(process.env.BOT_PROFILE_ID);
         const time: number = 86400000;

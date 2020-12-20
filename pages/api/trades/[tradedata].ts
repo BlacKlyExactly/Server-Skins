@@ -6,11 +6,18 @@ import bot from "../../../utils/bot";
 import TradeStatus from "../../../utils/status";
 import pool from "../../../utils/mysql";
 import os from "os";
+import NextCors from 'nextjs-cors';
 
 const scriptName: string = __filename.slice(__dirname.length + 1);
 let isLogged: boolean = false;
 
 export default async ( req: NextApiRequest, res: NextApiResponse ) => {
+    await NextCors(req, res, {
+        methods: ['GET'],
+        origin: 'http://localhost:3000',
+        optionsSuccessStatus: 200,
+    });
+
     return new Promise(async ( resolve ) => {
         const {
             query: { tradedata },

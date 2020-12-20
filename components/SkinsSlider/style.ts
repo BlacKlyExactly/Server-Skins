@@ -9,6 +9,7 @@ export const Wrapper = styled.div`
     
     @media screen and (min-width: 800px){
         padding-top: 20vh;
+        padding-bottom: 20vh;
         overflow: hidden;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -21,6 +22,5 @@ export const Wrapper = styled.div`
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
-        padding-bottom: 20vh;
     }
 `;
