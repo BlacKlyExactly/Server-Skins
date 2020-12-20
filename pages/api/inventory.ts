@@ -3,7 +3,6 @@ import axios, { AxiosResponse } from "axios";
 import cacheData from "memory-cache";
 import logger from "../../utils/logger";
 import os from "os";
-import url from "../../utils/adress";
 
 const scriptName: string = __filename.slice(__dirname.length + 1);
 

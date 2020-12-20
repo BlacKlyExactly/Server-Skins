@@ -36,13 +36,11 @@ const SkinDetails = forwardRef(
         const modalBox = useRef<HTMLDivElement>(null);
         const modalBoxData = useRef<HTMLDivElement>(null);
 
-        const skinCard: HTMLDivElement = ref.current;
-
         const handleModalOpen = () => timeline.reversed(!timeline.reversed());
 
         const toggle = ( enter: boolean ) => {
             gsap.to(slider.current, { 
-                    top: enter ? "104%" : "80%", 
+                    top: enter ? "100%" : "80%", 
                     opacity: enter ? 1 : 0, 
                     duration: 0.25, 
                     ease: "power4.inOut" 
@@ -64,8 +62,10 @@ const SkinDetails = forwardRef(
         }, [ timeline ])
 
         useEffect(() => {
-            skinCard.addEventListener('mouseenter', () => toggle(true));
-            skinCard.addEventListener('mouseleave', () => toggle(false));
+            const skinCard: HTMLDivElement = ref.current;
+
+            skinCard && skinCard.addEventListener('mouseenter', () => toggle(true));
+            skinCard && skinCard.addEventListener('mouseleave', () => toggle(false));
 
             return () => {
                 skinCard.removeEventListener('mouseenter', () => toggle(true));

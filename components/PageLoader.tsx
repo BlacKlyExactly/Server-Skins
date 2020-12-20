@@ -49,7 +49,7 @@ const Loader: FC = () => {
               .then(() => document.body.style.overflow = 'visible');
         }
 
-        document.readyState === "complete" ? load() : window.addEventListener('load', load);
+        document.readyState === "complete" || !window ? load() : window.addEventListener('load', load);
 
         return () =>  {
             load();

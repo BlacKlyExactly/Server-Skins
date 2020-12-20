@@ -24,9 +24,9 @@ const Wrapper = styled.div`
 `;
 
 const selects: Array<UpNavItem> = [
-  { name: "Strona Główna", path: "/", icon: faHome },
-  { name: "FAQ", path: "https://how2kill.pl/f.a.q-sklepiku-ze-skinami/", icon: faDiceFive },
-  { name: "Forum", path: "https://how2kill.pl/", icon: faDizzy }
+    { name: "Strona Główna", path: "/", icon: faHome },
+    { name: "FAQ", path: "https://how2kill.pl/f.a.q-sklepiku-ze-skinami/", icon: faDiceFive },
+    { name: "Forum", path: "https://how2kill.pl/", icon: faDizzy }
 ];
 
 const IndexPage: FC<IndexPageProps> = ({ data, isLoged }) => (

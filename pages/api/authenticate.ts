@@ -1,6 +1,5 @@
 import passport from "passport";
 import SteamStrategy from "passport-steam";
-import url from "../../utils/adress";
 
 passport.serializeUser(( user: any, done: any ) => {
     done(null, user);

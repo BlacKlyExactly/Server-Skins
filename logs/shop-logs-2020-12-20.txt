@@ -6973,3 +6973,1296 @@ Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
 --- [11:2:48] ---
 Błąd zapisywania ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
 --------------
+--- [12:4:24] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [12:4:25] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [12:4:29] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [12:4:33] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [12:4:37] ---
+Zapisywanie ceny dla Danger Zone Case (ndex.js)
+--------------
+--- [12:4:41] ---
+Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
+--------------
+--- [12:4:46] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [12:4:53] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [12:5:3] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [12:5:9] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [12:5:16] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [12:5:21] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [12:5:30] ---
+Zapisywanie ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js)
+--------------
+--- [12:5:42] ---
+Zapisywanie ceny dla Clutch Case (ndex.js)
+--------------
+--- [12:5:56] ---
+Zapisywanie ceny dla P2000 | Gnarled (Well-Worn) (ndex.js)
+--------------
+--- [12:6:6] ---
+Zapisywanie ceny dla P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [12:6:16] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js)
+--------------
+--- [12:6:26] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [12:6:39] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [12:6:54] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [12:7:13] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [12:7:26] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [12:7:41] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [12:7:54] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [12:8:11] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [12:8:32] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [12:8:53] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [12:8:54] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:9:11] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [12:9:29] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [12:9:47] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [12:10:6] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [12:10:6] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:10:37] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:10:37] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [12:10:41] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [12:10:45] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [12:10:49] ---
+Zapisywanie ceny dla Danger Zone Case (ndex.js)
+--------------
+--- [12:10:53] ---
+Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
+--------------
+--- [12:10:58] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [12:11:6] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [12:11:11] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [12:11:18] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [12:11:26] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [12:11:34] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [12:11:42] ---
+Zapisywanie ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js)
+--------------
+--- [12:11:54] ---
+Zapisywanie ceny dla Clutch Case (ndex.js)
+--------------
+--- [12:12:4] ---
+Zapisywanie ceny dla P2000 | Gnarled (Well-Worn) (ndex.js)
+--------------
+--- [12:12:14] ---
+Zapisywanie ceny dla P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [12:12:26] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js)
+--------------
+--- [12:12:38] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [12:12:51] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [12:13:7] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [12:13:20] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [12:13:21] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:13:22] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:13:35] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [12:13:50] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [12:14:7] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [12:14:23] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [12:14:33] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:14:33] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:14:42] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [12:14:43] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [12:14:46] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [12:14:50] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [12:14:54] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [12:14:58] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [12:15:1] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [12:15:11] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [12:15:43] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:15:44] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:16:8] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:16:9] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [12:16:13] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [12:16:17] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [12:16:21] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [12:16:25] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [12:16:42] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [12:17:27] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:17:28] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:17:32] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [12:17:36] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [12:17:40] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [12:17:40] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [12:17:44] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [12:18:4] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:5] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:16] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [12:18:53] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:18:54] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:19:28] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [12:19:35] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [12:19:36] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [12:19:40] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [12:19:44] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [12:19:48] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [12:20:5] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:20:6] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla StatTrak™ P90 | Freight (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:6] ---
+Cena dla StatTrak™ P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:13] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [12:20:17] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [12:20:21] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [12:20:25] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [12:20:29] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [12:20:40] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [12:20:46] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:47] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:48] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:48] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:48] ---
+Cena dla StatTrak™ P90 | Freight (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:48] ---
+Cena dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:20:48] ---
+Cena dla StatTrak™ P250 | Cassette (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:48] ---
+Cena dla StatTrak™ P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:48] ---
+Cena dla Sealed Graffiti | GLHF (Tiger Orange) jest już zapisana (ndex.js)
+--------------
+--- [12:20:56] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:20:56] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:20:56] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:20:56] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:20:56] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:56] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla StatTrak™ P90 | Freight (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla StatTrak™ P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla StatTrak™ P250 | Cassette (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:20:57] ---
+Cena dla Sealed Graffiti | GLHF (Tiger Orange) jest już zapisana (ndex.js)
+--------------
+--- [12:21:6] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [12:21:10] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [12:21:14] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [12:21:18] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [12:21:22] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [12:22:12] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [12:22:30] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [12:22:34] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [12:22:38] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [12:23:20] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [12:23:26] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla SSG 08 | Mainframe 001 (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla SG 553 | Ol' Rusty (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Sealed Graffiti | Backstab (War Pig Pink) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla SSG 08 | Mainframe 001 (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla MP5-SD | Kitbash (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla StatTrak™ Negev | Ultralight (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla StatTrak™ P90 | Freight (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla StatTrak™ P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla StatTrak™ P250 | Cassette (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [12:23:27] ---
+Cena dla Sealed Graffiti | GLHF (Tiger Orange) jest już zapisana (ndex.js)
+--------------
+--- [12:23:29] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------

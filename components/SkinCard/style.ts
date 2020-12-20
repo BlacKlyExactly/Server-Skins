@@ -9,9 +9,10 @@ interface WrapperProps {
 export const Wrapper = styled.div<WrapperProps>`
     position: relative;
     min-width: 177px;
-    height: 254px; 
+    height: 300px; 
     margin: 5px 20px 5px 20px;
     transition: transform 0.15s;
+    flex-direction: column;
 
     &::after{
         content: "\f07a";
@@ -27,7 +28,7 @@ export const Wrapper = styled.div<WrapperProps>`
         left: 0;
         position: absolute;
         width: 100%;
-        height: 104%;
+        height: 100%;
         background: gray;
         opacity: 0;
     }
@@ -114,7 +115,7 @@ export const PriceBox = styled.div`
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 25%;
+    height: 20%;
     background: ${Gold};
     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
     cursor: pointer;

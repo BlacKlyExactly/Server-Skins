@@ -71,7 +71,7 @@ const Dropdown: FC<DropdownProps> = ({ data }) => {
 
         fetchTradeUrl();
 
-        document.addEventListener('click', handleClick);
+        document && document.addEventListener('click', handleClick);
 
         return () => document.removeEventListener('click', handleClick);
     }, [ ])
