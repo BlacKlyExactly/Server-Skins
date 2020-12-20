@@ -7,6 +7,8 @@ const useBuy = ( data: UserData, price: number, itemName: string, itemId ) => {
     const [ cData, setCredits, setTradeUrl, updateClientData ] = useClientData(data);
     
     const buy = async (): Promise<void> => {
+        if(!price) return;
+
         if(!data){
             Swal.fire({
                 title: "Zaloguj się",
