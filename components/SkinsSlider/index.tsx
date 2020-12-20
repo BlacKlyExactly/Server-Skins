@@ -17,7 +17,7 @@ const SkinsSlider: FC<SkinsSliderProps> = ({ data, isLoged }) => {
         const fetchInventory = async() => {
             try {
                 const response: AxiosResponse = await axios.get(`/api/inventory`);
-                setSkins([Object.values(response.data.rgDescriptions).filter((item: any) => item.tradable === 1)[0]]);
+                setSkins(Object.values(response.data.rgDescriptions).filter((item: any) => item.tradable === 1));
             } catch (error) {
                 console.log(error);
             }

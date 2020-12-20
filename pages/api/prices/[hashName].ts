@@ -20,7 +20,7 @@ const sleep = ( ms: number ) => {
     });
 } 
 
-export default ( req: NextApiRequest, res: NextApiResponse ) => {
+export default async ( req: NextApiRequest, res: NextApiResponse ) => {
     return new Promise(async ( resolve: any ) => {
         const {
             query: { hashName },

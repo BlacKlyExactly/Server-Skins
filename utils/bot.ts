@@ -50,13 +50,11 @@ class TradeBot {
         })
 
         bot.manager.on("sentOfferChanged", async ( offer: any ) => {
-            console.log(offer.state);
             try {
                 const trade: any = await this.findTradeById(offer.id);
         
                 try {
                     const user: any = await axios.get(`http://localhost:3000/api/users/${trade.steamID}`);
-                    console.log(user);
 
                     if(offer.state === 3){
                         axios.get(`http://localhost:3000/api/users/setcredits/${trade.steamID}&${user.data.credits - trade.price}`);

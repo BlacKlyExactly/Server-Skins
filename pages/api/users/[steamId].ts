@@ -6,7 +6,7 @@ import os from "os";
 
 const scriptName: string = __filename.slice(__dirname.length + 1);
 
-export default ( req: NextApiRequest, res: NextApiResponse ) => {
+export default async ( req: NextApiRequest, res: NextApiResponse ) => {
     return new Promise(resolve => {
         const {
             query: { steamId },

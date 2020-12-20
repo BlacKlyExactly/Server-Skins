@@ -2302,3 +2302,2763 @@ Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
 --- [19:21:20] ---
 Cena dla Sealed Graffiti | GLHF (Dust Brown) jest już zapisana (ndex.js)
 --------------
+--- [19:5:11] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:5:11] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:5:11] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:5:11] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [19:5:11] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:5:11] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:5:15] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:5:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:5:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:5:15] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [19:5:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:5:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:15] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [19:7:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:7:15] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [19:7:19] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js)
+--------------
+--- [19:7:23] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [19:7:27] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [19:7:31] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js)
+--------------
+--- [19:7:35] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Battle Green) (ndex.js)
+--------------
+--- [19:10:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:10:18] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:10:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:10:18] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [19:10:18] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:10:18] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [19:10:18] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [19:10:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:10:18] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [19:10:18] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:10:42] ---
+Zapisywanie ceny dla Danger Zone Case (ndex.js)
+--------------
+--- [19:10:46] ---
+Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
+--------------
+--- [19:10:50] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [19:10:54] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [19:10:58] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [19:11:2] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [19:11:30] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [19:11:38] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [19:11:46] ---
+Zapisywanie ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js)
+--------------
+--- [19:11:54] ---
+Zapisywanie ceny dla Clutch Case (ndex.js)
+--------------
+--- [19:12:2] ---
+Zapisywanie ceny dla P2000 | Gnarled (Well-Worn) (ndex.js)
+--------------
+--- [19:12:10] ---
+Zapisywanie ceny dla P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [19:12:43] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js)
+--------------
+--- [19:12:55] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [19:13:7] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [19:13:18] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [19:13:26] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [19:13:35] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [19:13:47] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:14:7] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [19:14:19] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [19:14:31] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [19:14:42] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [19:14:51] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [19:14:59] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [19:14:59] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:15:31] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:31] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:32] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:33] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:33] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:43] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [19:15:43] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:15:55] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [19:15:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:55] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:15:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:55] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:15:55] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:55] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:55] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:15:55] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:15:55] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [19:16:3] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:16:7] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [19:16:7] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:16:15] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [19:16:15] ---
+Błąd zapisywania ceny dla Tec-9 | Brother (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:16:23] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [19:16:23] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:16:55] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [19:16:55] ---
+Błąd zapisywania ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:16:59] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:7] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [19:17:7] ---
+Błąd zapisywania ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:17:19] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [19:17:19] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:17:31] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [19:17:31] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:17:39] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [19:17:39] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:17:47] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [19:17:47] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:17:51] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [19:17:51] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:17:55] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:17:59] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [19:17:59] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:18:3] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [19:18:4] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:18:11] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [19:18:11] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:18:23] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [19:18:23] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:19:19] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [19:19:20] ---
+Błąd zapisywania ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:19:23] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [19:19:24] ---
+Błąd zapisywania ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:19:27] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [19:19:28] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:19:31] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [19:19:32] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:19:39] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [19:19:39] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:19:47] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [19:19:47] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:56:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:56:14] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:56:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:56:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:56:14] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:56:14] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [19:56:14] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:56:15] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:56:15] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [19:56:15] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:56:15] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:57:3] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:57:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:57:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:57:3] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:57:3] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:57:3] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:57:3] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [19:58:3] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:58:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:58:11] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [19:58:11] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:58:15] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [19:58:15] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:58:19] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [19:58:19] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:58:23] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [19:58:23] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:58:27] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [19:58:27] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:58:35] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [19:58:35] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:58:59] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [19:58:59] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:59:3] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [19:59:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:59:3] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:59:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:59:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:59:4] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [19:59:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:59:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:59:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:59:4] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:59:4] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [19:59:4] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [19:59:4] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [19:59:7] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [19:59:8] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:59:11] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [19:59:12] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:59:15] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [19:59:16] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [19:59:23] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [19:59:24] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:0:27] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [20:0:28] ---
+Błąd zapisywania ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:0:31] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [20:0:32] ---
+Błąd zapisywania ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:0:35] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [20:0:36] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:0:39] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [20:0:40] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:0:43] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [20:0:44] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:0:47] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [20:0:48] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:1:0] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [20:1:1] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:1:4] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:1:5] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:1:8] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [20:1:9] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:1:12] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [20:1:13] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:1:16] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [20:1:17] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:1:24] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [20:1:25] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:2:17] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:2:18] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:2:24] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:2:28] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [20:2:29] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:2:29] ---
+Błąd zapisywania ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:2:32] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [20:2:33] ---
+Błąd zapisywania ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:2:36] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [20:2:37] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:2:40] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [20:2:41] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:2:44] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [20:2:45] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:2:48] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [20:2:49] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:2:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:2:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:2:52] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:0] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:20] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:20] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:20] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:23] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [20:3:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:23] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:23] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:3:23] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:3:23] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:4:23] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:55] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [20:4:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:55] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [20:4:55] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:4:55] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [20:4:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:55] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [20:4:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:55] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [20:4:55] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:55] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:56] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:56] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:56] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:56] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:4:56] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:4:56] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:5:19] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [20:5:19] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:5:23] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [20:5:23] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:5:27] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [20:5:27] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:5:31] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [20:5:31] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:5:35] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [20:5:35] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:5:43] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [20:5:43] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:6:47] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [20:6:47] ---
+Błąd zapisywania ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:6:51] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [20:6:51] ---
+Błąd zapisywania ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:6:52] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [20:6:52] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:6:55] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [20:6:55] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:6:56] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:56] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:57] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:6:59] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [20:6:59] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:7:0] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [20:7:0] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:7:3] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [20:7:3] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:7:4] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [20:7:4] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:7:7] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [20:7:7] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:7:8] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [20:7:8] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:7:16] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [20:7:16] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:8:20] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [20:8:20] ---
+Błąd zapisywania ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:8:24] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [20:8:24] ---
+Błąd zapisywania ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:8:28] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [20:8:28] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:8:32] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [20:8:32] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:8:36] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [20:8:36] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:8:40] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [20:8:40] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:39:29] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:39:30] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:39:53] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:40:16] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:41:9] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:41:9] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:10] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:41:10] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:41:10] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:41:10] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:41:10] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:41:10] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:41:10] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:41:43] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:42:37] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:42:38] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:43:6] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [20:43:6] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:43:10] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [20:43:10] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:43:14] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [20:43:14] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:43:18] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [20:43:18] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:43:37] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:43:39] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [20:43:39] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:43:43] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [20:43:43] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:43:47] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [20:43:47] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:43:51] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [20:43:51] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:43:55] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [20:43:55] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:44:34] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [20:44:34] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:44:38] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [20:44:38] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:44:42] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [20:44:42] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:44:46] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [20:44:46] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:44:50] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [20:44:50] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:48:53] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [20:48:54] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [20:48:54] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:49:53] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [20:49:53] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [20:49:53] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [20:49:53] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:49:54] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [20:50:53] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:50:53] ---
+Cena dla AWP | Atheris (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:50:53] ---
+Cena dla USP-S | Cortex (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:50:53] ---
+Cena dla Music Kit | The Verkkars, EZ4ENCE jest już zapisana (ndex.js)
+--------------
+--- [20:50:53] ---
+Cena dla M4A4 | Buzz Kill (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:50:54] ---
+Cena dla Prisma Case jest już zapisana (ndex.js)
+--------------
+--- [20:50:54] ---
+Cena dla Prisma 2 Case jest już zapisana (ndex.js)
+--------------
+--- [20:51:53] ---
+Cena dla Tec-9 | Army Mesh (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:51:54] ---
+Cena dla Clutch Case jest już zapisana (ndex.js)
+--------------
+--- [20:51:54] ---
+Cena dla P2000 | Gnarled (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:51:54] ---
+Cena dla P250 | Cassette (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:51:54] ---
+Cena dla PP-Bizon | Runic (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:51:55] ---
+Cena dla Tec-9 | Brother (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:52:53] ---
+Cena dla PP-Bizon | Runic (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:52:54] ---
+Cena dla MAC-10 | Allure (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:52:54] ---
+Cena dla MAG-7 | SWAG-7 (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:52:54] ---
+Cena dla SG 553 | Ol' Rusty (Factory New) jest już zapisana (ndex.js)
+--------------
+--- [20:52:54] ---
+Cena dla StatTrak™ Negev | Ultralight (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:53:54] ---
+Cena dla MAC-10 | Allure (Well-Worn) jest już zapisana (ndex.js)
+--------------
+--- [20:53:54] ---
+Cena dla MP5-SD | Kitbash (Minimal Wear) jest już zapisana (ndex.js)
+--------------
+--- [20:53:54] ---
+Cena dla Tec-9 | Brother (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:53:54] ---
+Cena dla MP5-SD | Kitbash (Battle-Scarred) jest już zapisana (ndex.js)
+--------------
+--- [20:54:35] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [20:54:36] ---
+Cena dla Sealed Graffiti | X-Knives (Shark White) jest już zapisana (ndex.js)
+--------------
+--- [20:54:36] ---
+Cena dla Sealed Graffiti | Noscope (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:55:36] ---
+Cena dla Sealed Graffiti | GTG (Frog Green) jest już zapisana (ndex.js)
+--------------
+--- [20:55:36] ---
+Cena dla Sealed Graffiti | Eye Spy (Dust Brown) jest już zapisana (ndex.js)
+--------------
+--- [20:55:36] ---
+Cena dla Sealed Graffiti | GTG (Wire Blue) jest już zapisana (ndex.js)
+--------------
+--- [20:55:36] ---
+Cena dla Sealed Graffiti | X-Knives (Battle Green) jest już zapisana (ndex.js)
+--------------
+--- [20:55:36] ---
+Cena dla Danger Zone Case jest już zapisana (ndex.js)
+--------------
+--- [20:55:36] ---
+Cena dla G3SG1 | Desert Storm (Field-Tested) jest już zapisana (ndex.js)
+--------------
+--- [20:56:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:56:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:56:3] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:56:4] ---
+Zapisywanie ekwipunku 76561199109203622 (ndex.js)
+--------------
+--- [20:56:5] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [20:56:5] ---
+Pomyślnie zwrócono użytkownika (klient: STEAM_1:1:88465532) (ndex.js): \n {\"steamID\":\"STEAM_1:1:88465532\",\"name\":\"Black\",\"credits\":208,\"tradeUrl\":\"https://steamcommunity.com/tradeoffer/new/?partner":"176931065","token":"tpI9zlM1
+--------------
+--- [20:56:5] ---
+Błąd zapisywania ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:56:9] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js)
+--------------
+--- [20:56:9] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:56:13] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [20:56:13] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:56:17] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [20:56:17] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:56:21] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js)
+--------------
+--- [20:56:21] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:56:25] ---
+Zapisywanie ceny dla Danger Zone Case (ndex.js)
+--------------
+--- [20:56:25] ---
+Błąd zapisywania ceny dla Danger Zone Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:56:29] ---
+Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
+--------------
+--- [20:56:29] ---
+Błąd zapisywania ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:56:37] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [20:56:37] ---
+Błąd zapisywania ceny dla AWP | Atheris (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:56:45] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [20:56:45] ---
+Błąd zapisywania ceny dla USP-S | Cortex (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:56:53] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [20:56:53] ---
+Błąd zapisywania ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:8] ---
+Ekwipunek 76561199109203622 jest już zapisany (ndex.js)
+--------------
+--- [20:57:8] ---
+Zapisywanie ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js)
+--------------
+--- [20:57:8] ---
+Błąd zapisywania ceny dla Sealed Graffiti | X-Knives (Shark White) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:12] ---
+Zapisywanie ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js)
+--------------
+--- [20:57:12] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Noscope (Battle Green) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:16] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js)
+--------------
+--- [20:57:16] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GTG (Frog Green) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:20] ---
+Zapisywanie ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js)
+--------------
+--- [20:57:20] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Eye Spy (Dust Brown) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:24] ---
+Zapisywanie ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js)
+--------------
+--- [20:57:24] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GTG (Wire Blue) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:28] ---
+Zapisywanie ceny dla Danger Zone Case (ndex.js)
+--------------
+--- [20:57:28] ---
+Błąd zapisywania ceny dla Danger Zone Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:32] ---
+Zapisywanie ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js)
+--------------
+--- [20:57:32] ---
+Błąd zapisywania ceny dla G3SG1 | Desert Storm (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:36] ---
+Zapisywanie ceny dla AWP | Atheris (Field-Tested) (ndex.js)
+--------------
+--- [20:57:36] ---
+Błąd zapisywania ceny dla AWP | Atheris (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:40] ---
+Zapisywanie ceny dla USP-S | Cortex (Field-Tested) (ndex.js)
+--------------
+--- [20:57:40] ---
+Błąd zapisywania ceny dla USP-S | Cortex (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:44] ---
+Zapisywanie ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js)
+--------------
+--- [20:57:44] ---
+Błąd zapisywania ceny dla Music Kit | The Verkkars, EZ4ENCE (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:48] ---
+Zapisywanie ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js)
+--------------
+--- [20:57:48] ---
+Błąd zapisywania ceny dla M4A4 | Buzz Kill (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:52] ---
+Zapisywanie ceny dla Prisma Case (ndex.js)
+--------------
+--- [20:57:52] ---
+Błąd zapisywania ceny dla Prisma Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:57:56] ---
+Zapisywanie ceny dla Prisma 2 Case (ndex.js)
+--------------
+--- [20:57:56] ---
+Błąd zapisywania ceny dla Prisma 2 Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:0] ---
+Zapisywanie ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js)
+--------------
+--- [20:58:0] ---
+Błąd zapisywania ceny dla Tec-9 | Army Mesh (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:4] ---
+Zapisywanie ceny dla Clutch Case (ndex.js)
+--------------
+--- [20:58:4] ---
+Błąd zapisywania ceny dla Clutch Case (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:8] ---
+Zapisywanie ceny dla P2000 | Gnarled (Well-Worn) (ndex.js)
+--------------
+--- [20:58:8] ---
+Błąd zapisywania ceny dla P2000 | Gnarled (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:12] ---
+Zapisywanie ceny dla P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [20:58:12] ---
+Błąd zapisywania ceny dla P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:16] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js)
+--------------
+--- [20:58:16] ---
+Błąd zapisywania ceny dla PP-Bizon | Runic (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:20] ---
+Zapisywanie ceny dla Tec-9 | Brother (Factory New) (ndex.js)
+--------------
+--- [20:58:20] ---
+Błąd zapisywania ceny dla Tec-9 | Brother (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:24] ---
+Zapisywanie ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js)
+--------------
+--- [20:58:24] ---
+Błąd zapisywania ceny dla PP-Bizon | Runic (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:28] ---
+Zapisywanie ceny dla MAC-10 | Allure (Field-Tested) (ndex.js)
+--------------
+--- [20:58:28] ---
+Błąd zapisywania ceny dla MAC-10 | Allure (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:32] ---
+Zapisywanie ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js)
+--------------
+--- [20:58:32] ---
+Błąd zapisywania ceny dla MAG-7 | SWAG-7 (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:36] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js)
+--------------
+--- [20:58:36] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:40] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js)
+--------------
+--- [20:58:40] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:44] ---
+Zapisywanie ceny dla MAC-10 | Allure (Well-Worn) (ndex.js)
+--------------
+--- [20:58:44] ---
+Błąd zapisywania ceny dla MAC-10 | Allure (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:48] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js)
+--------------
+--- [20:58:48] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:52] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [20:58:52] ---
+Błąd zapisywania ceny dla Tec-9 | Brother (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:58:56] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js)
+--------------
+--- [20:58:56] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:0] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js)
+--------------
+--- [20:59:0] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:4] ---
+Zapisywanie ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js)
+--------------
+--- [20:59:4] ---
+Błąd zapisywania ceny dla SG 553 | Ol' Rusty (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:8] ---
+Zapisywanie ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js)
+--------------
+--- [20:59:8] ---
+Błąd zapisywania ceny dla StatTrak™ P2000 | Urban Hazard (Minimal Wear) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:12] ---
+Zapisywanie ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js)
+--------------
+--- [20:59:12] ---
+Błąd zapisywania ceny dla MP5-SD | Kitbash (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:16] ---
+Zapisywanie ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js)
+--------------
+--- [20:59:16] ---
+Błąd zapisywania ceny dla SSG 08 | Mainframe 001 (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:20] ---
+Zapisywanie ceny dla Tec-9 | Brother (Field-Tested) (ndex.js)
+--------------
+--- [20:59:20] ---
+Błąd zapisywania ceny dla Tec-9 | Brother (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:24] ---
+Zapisywanie ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js)
+--------------
+--- [20:59:24] ---
+Błąd zapisywania ceny dla StatTrak™ Negev | Ultralight (Well-Worn) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:28] ---
+Zapisywanie ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js)
+--------------
+--- [20:59:28] ---
+Błąd zapisywania ceny dla StatTrak™ P90 | Freight (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:32] ---
+Zapisywanie ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js)
+--------------
+--- [20:59:32] ---
+Błąd zapisywania ceny dla StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:36] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js)
+--------------
+--- [20:59:36] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Field-Tested) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:40] ---
+Zapisywanie ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js)
+--------------
+--- [20:59:40] ---
+Błąd zapisywania ceny dla StatTrak™ P250 | Cassette (Factory New) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:44] ---
+Zapisywanie ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js)
+--------------
+--- [20:59:44] ---
+Błąd zapisywania ceny dla Sealed Graffiti | GLHF (Tiger Orange) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------
+--- [20:59:48] ---
+Zapisywanie ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js)
+--------------
+--- [20:59:48] ---
+Błąd zapisywania ceny dla Sealed Graffiti | Backstab (War Pig Pink) (ndex.js): \n {\"code\":\"RATELIMIT_EXCEEDED\"}
+--------------

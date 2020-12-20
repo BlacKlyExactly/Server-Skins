@@ -10,13 +10,12 @@ import os from "os";
 const scriptName: string = __filename.slice(__dirname.length + 1);
 let isLogged: boolean = false;
 
-export default ( req: NextApiRequest, res: NextApiResponse ) => {
+export default async ( req: NextApiRequest, res: NextApiResponse ) => {
     return new Promise(async ( resolve ) => {
         const {
             query: { tradedata },
         } = req;
-        
-
+		
         if(tradedata instanceof Array){
             logger(`Podano tablicę do parametru (${scriptName})`)
 

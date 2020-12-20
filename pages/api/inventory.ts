@@ -7,7 +7,7 @@ import url from "../../utils/adress";
 
 const scriptName: string = __filename.slice(__dirname.length + 1);
 
-export default async( req: NextApiRequest, res: NextApiResponse ) => {
+export default async ( req: NextApiRequest, res: NextApiResponse ) => {
     try {
         const value = cacheData.get(process.env.BOT_PROFILE_ID);
         const time: number = 86400000;
