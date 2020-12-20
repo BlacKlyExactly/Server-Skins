@@ -58,27 +58,29 @@ const SkinCard: FC<SkinCardProps> = ({ data, index, userData }) => {
     }, [ ])
     
     return(
-        <Wrapper 
-            ref={card} 
-            isLoaded={price ? false : true}
-        >               
-            <ItemState onClick={buyAction}>
-                <span>{transformState(data.tags)}</span>
-                {isStatTrak(data.tags) && <ItemStatTrak>ST</ItemStatTrak>}
-            </ItemState>
-            <ImageBox>
-                <Skin src={`https://community.cloudflare.steamstatic.com/economy/image/${data.icon_url}`} />
-            </ImageBox>
-            <PriceBox>
-                <Price>{price}$</Price>
-            </PriceBox>
-            <SkinDetails 
+        price && (
+            <Wrapper 
                 ref={card} 
-                data={data} 
-                price={price}
-                buyAction={buyAction}
-            />            
-        </Wrapper>
+                isLoaded={price ? false : true}
+            >               
+                <ItemState onClick={buyAction}>
+                    <span>{transformState(data.tags)}</span>
+                    {isStatTrak(data.tags) && <ItemStatTrak>ST</ItemStatTrak>}
+                </ItemState>
+                <ImageBox>
+                    <Skin src={`https://community.cloudflare.steamstatic.com/economy/image/${data.icon_url}`} />
+                </ImageBox>
+                <PriceBox>
+                    <Price>{price}$</Price>
+                </PriceBox>
+                <SkinDetails 
+                    ref={card} 
+                    data={data} 
+                    price={price}
+                    buyAction={buyAction}
+                />            
+            </Wrapper>
+        )
     )
 };
 
