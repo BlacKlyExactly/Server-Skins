@@ -55,12 +55,14 @@ export default async ( req: NextApiRequest, res: NextApiResponse ) => {
                             [ offer.id, steamId, price, tradeItem.name, tradeUrl, TradeStatus.Pending ],
                             ( error: QueryError, result: RowDataPacket[], fields: FieldPacket[] ) => {
                                 if(error){
+                                    connection.release();
                                     logger(`Błąd zapisywania wymiany (klient: ${steamId}) (${scriptName}):${os.EOL} ${JSON.stringify(error)}`);
                     
                                     res.status(503).send(503);
                                     return resolve(503);
                                 }
-    
+                                
+                                connection.release();
                                 res.status(200).send(offer);
                                 return resolve(200);
                             }
