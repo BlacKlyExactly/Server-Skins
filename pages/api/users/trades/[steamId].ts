@@ -48,7 +48,8 @@ export default async ( req: NextApiRequest, res: NextApiResponse ) => {
                         res.status(503).send(error);
                         return resolve(503);
                     }
-
+                    
+                    connection.release();
                     res.status(200).send(result);
                     return resolve(200);
                 }

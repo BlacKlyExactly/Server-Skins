@@ -47,10 +47,7 @@ export default async ( req: NextApiRequest, res: NextApiResponse ) => {
                         logger(`Błąd zapytania (ustawianie kredytów | klient: ${steamId}, wartość ${value}) (${scriptName}):${os.EOL} ${JSON.stringify(error)}`);
                         connection.release();
 
-                        res.send("503");
-                        console.log(error);
-
-                        res.status(404).end();
+                        res.status(404).send(404);
                         return resolve(404);
                     } 
 

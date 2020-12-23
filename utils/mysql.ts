@@ -7,7 +7,7 @@ const connection: Pool =  mysql.createPool({
     user: DB_USER,
     password: DB_PASS,
     database: DB_DATABASE,
-    connectTimeout: 0,
+    connectTimeout: 10000,
 });
 
 export default connection;
