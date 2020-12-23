@@ -151,25 +151,28 @@ class TradeBot {
         return new Promise(( resolve, reject ) => {
             pool.getConnection(( error, connection: PoolConnection  ) => {
                 if(error){
+                    connection.release();
                     console.log(error);
                     reject(error);
                     return;
                 }
-            })
-    
-            connection.query(
-                'UPDATE `server-skins_trades-history` SET `status`=? WHERE `tradeId`=?',
-                [ status, tradeid ],
-                ( error: QueryError, result: RowDataPacket[], fields: FieldPacket[] ) => {
-                    if(error){
-                        console.log(error);
-                        reject(error);
-                        return;
-                    }
 
-                    resolve("done");
-                }
-            )
+                connection.query(
+                    'UPDATE `server-skins_trades-history` SET `status`=? WHERE `tradeId`=?',
+                    [ status, tradeid ],
+                    ( error: QueryError, result: RowDataPacket[], fields: FieldPacket[] ) => {
+                        if(error){
+                            console.log(error);
+                            connection.release();
+                            reject(error);
+                            return;
+                        }
+    
+                        resolve("done");
+                        connection.release();
+                    }
+                )
+            })
         })
     }
 }
